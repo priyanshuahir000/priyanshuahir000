@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshuahir000.priyanshuahir000&left_text=Profile%20Count:%2000"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshuahir000.priyanshuahir000&left_text=Profile%20Count:%20"  />
 </div>
 
 ###
