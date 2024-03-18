@@ -25,5 +25,5 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<img src="https://raw.githubusercontent.com/priyanshuahir000/priyanshuahir000/output/snake.svg" alt="Snake animation" />
----
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+
