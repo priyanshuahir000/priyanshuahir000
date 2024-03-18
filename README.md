@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=priyanshuahir000&icon=6&color=0)](https://visitcount.itsvg.in)
-
 # 💫About Me :
 🔭 Currently working on: Small JavaScript projects.
 👯 Looking to collaborate on: Web development open-source projects.
@@ -19,10 +17,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuahir000&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuahir000&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=priyanshuahir000&icon=6&color=0)](https://visitcount.itsvg.in)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=priyanshuahir000&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
