@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 Currently working on: Small JavaScript projects.
+🔭 Currently working on: ByteSizedJS.
 👯 Looking to collaborate on: Web development open-source projects.
 🤝 Need help with: Mastering microservices architecture.
 🌱 Learning: Advanced JavaScript concepts.
