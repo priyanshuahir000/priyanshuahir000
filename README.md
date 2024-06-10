@@ -1,10 +1,10 @@
 # 💫About Me :
-🔭 Currently working on: ByteSizedJS.
-👯 Looking to collaborate on: Web development open-source projects.
-🤝 Need help with: Mastering microservices architecture.
-🌱 Learning: Advanced JavaScript concepts.
-💬 Ask me about: Anything, really.
-⚡ Fun fact: Built a full static college website using only HTML and CSS.
+🔭 Currently working on: ByteSizedJS.  
+👯 Looking to collaborate on: Web development open-source projects.  
+🤝 Need help with: Mastering microservices architecture.  
+🌱 Learning: Advanced JavaScript concepts.  
+💬 Ask me about: Anything, really.  
+⚡ Fun fact: Built a full college website using only HTML and CSS.  
 
 
 ## 🌐Socials
