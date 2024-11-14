@@ -1,8 +1,8 @@
 # 💫About Me :
-🔭 Currently working on: ByteSizedJS.  
+🔭 Currently working on: Video Sharing PLatform.  
 👯 Looking to collaborate on: Web development open-source projects.  
 🤝 Need help with: Mastering microservices architecture.  
-🌱 Learning: Advanced JavaScript concepts.  
+🌱 Learning: Advanced Backend.
 💬 Ask me about: Anything, really.  
 ⚡ Fun fact: Built a full college website using only HTML and CSS.  
 
